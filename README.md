@@ -21,7 +21,6 @@
 ## 문서 (`doc/`)
 
 - [markdown-practice.md](doc/markdown-practice.md) — 마크다운 문법 연습 (코드블럭, 인용, 목록, 구분선 등)
-- 과제 제출 문서 (docx)
 
 ## 실행 방법
 
